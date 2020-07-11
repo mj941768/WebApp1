@@ -1,0 +1,5 @@
+﻿<asp:Button runat="Server" Text="Login" BackColor="Yellow" />
+<asp:Label runat="server" Text="Welcome" BackColor="Pink"  BorderColor="Blue" BorderStyle="Double"   />
+<asp:Image runat="server" height="200" weight="200" />
+<asp:Button runat="server" sKinId="btn1" BackColor="Green" Text="Ok" />
+<asp:Button runat="server" sKinId="btn2" BackColor="Red" Text="Cancel" />
